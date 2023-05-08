@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333370599807",
+    "project_id": "fcaebookapp",
+    "storage_bucket": "fcaebookapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333370599807:android:f318744b3fc048dda0124a",
+        "android_client_info": {
+          "package_name": "com.example.facebook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333370599807-kdt1bicdapcf585e3ptou9sc23p4rffl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebook_app",
+            "certificate_hash": "5840d70030acd5500aeea466ce59d73fd140b775"
+          }
+        },
+        {
+          "client_id": "333370599807-7ccapbhkpsk4scao93tgb49gtqml0nb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuy3Q1qXYuyRB499PM5EWDb4bFh20Jc2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333370599807-7ccapbhkpsk4scao93tgb49gtqml0nb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
